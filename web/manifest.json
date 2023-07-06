@@ -1,6 +1,6 @@
 {
-    "name": "fluttercalculator",
-    "short_name": "fluttercalculator",
+    "name": "flutter_login_ui_response",
+    "short_name": "flutter_login_ui_response",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
